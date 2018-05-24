@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2018/05/22 17:10:38.292.dproj,C:\Users\IEUser\Documents\RAD Studio\Projects\SampleDelphi2010.dproj=C:\Users\IEUser\Documents\RAD Studio\Projects\Project1.dproj</Transaction>
+    <Transaction>2018/05/22 17:20:49.335.pas,C:\Users\IEUser\Documents\RAD Studio\Projects\SampleDelphi\SampleDeli2010.pas=C:\Users\IEUser\Documents\RAD Studio\Projects\Unit2.pas</Transaction>
+    <Transaction>2018/05/22 17:20:49.335.dfm,C:\Users\IEUser\Documents\RAD Studio\Projects\SampleDelphi\SampleDeli2010.dfm=C:\Users\IEUser\Documents\RAD Studio\Projects\Unit2.dfm</Transaction>
+    <Transaction>2018/05/22 17:20:59.932.dproj,C:\Users\IEUser\Documents\RAD Studio\Projects\SampleDelphi\SampleDelphi20101.dproj=C:\Users\IEUser\Documents\RAD Studio\Projects\SampleDelphi2010.dproj</Transaction>
+    <Transaction>2018/05/22 17:59:40.006.xml,C:\Users\IEUser\Documents\RAD Studio\Projects\SampleDelphi\autenticacao.xml=C:\Users\IEUser\Documents\RAD Studio\Projects\SampleDelphi\Untitled1.xml</Transaction>
+    <Transaction>2018/05/22 18:00:56.682.xml,C:\Users\IEUser\Documents\RAD Studio\Projects\Novo Sample Delphi\autenticacao.xml=C:\Users\IEUser\Documents\RAD Studio\Projects\SampleDelphi\autenticacao.xml</Transaction>
+    <Transaction>2018/05/22 18:04:18.594.dproj,C:\Users\IEUser\Documents\RAD Studio\Projects\Novo Sample Delphi\SampleDelphi2010.dproj=C:\Users\IEUser\Documents\RAD Studio\Projects\SampleDelphi\SampleDelphi20101.dproj</Transaction>
+    <Transaction>2018/05/23 11:05:48.731.xml,C:\Users\IEUser\Documents\RAD Studio\Projects\Novo Sample Delphi\autenticacao.xml=</Transaction>
+    <Transaction>2018/05/23 11:08:55.521.xml,C:\Users\IEUser\Documents\RAD Studio\Projects\Novo Sample Delphi\SampleDelphi\autenticacao.xml=C:\Users\IEUser\Documents\RAD Studio\Projects\Novo Sample Delphi\Untitled1.xml</Transaction>
+    <Transaction>2018/05/23 11:09:06.860.xml,C:\Users\IEUser\Documents\RAD Studio\Projects\Novo Sample Delphi\SampleDelphi\autenticacao.xml=</Transaction>
+    <Transaction>2018/05/23 11:09:47.088.dfm,C:\Users\IEUser\Documents\RAD Studio\Projects\Delphi\SampleDeli2010.dfm=C:\Users\IEUser\Documents\RAD Studio\Projects\SampleDelphi\SampleDeli2010.dfm</Transaction>
+    <Transaction>2018/05/23 11:09:47.088.pas,C:\Users\IEUser\Documents\RAD Studio\Projects\Delphi\SampleDeli2010.pas=C:\Users\IEUser\Documents\RAD Studio\Projects\SampleDelphi\SampleDeli2010.pas</Transaction>
+    <Transaction>2018/05/23 11:10:23.511.xml,C:\Users\IEUser\Documents\RAD Studio\Projects\Delphi\autenticacao.xml=C:\Users\IEUser\Documents\RAD Studio\Projects\Novo Sample Delphi\Untitled1.xml</Transaction>
+  </Transactions>
+	<ProjectSortOrder AutoSort="0" SortType="0">
+    <File Path="SampleDeli2010.pas"/>
+    <File Path="SampleDeli2010.dfm"/>
+    <File Path="autenticacao.xml"/>
+  </ProjectSortOrder>
+</BorlandProject>
